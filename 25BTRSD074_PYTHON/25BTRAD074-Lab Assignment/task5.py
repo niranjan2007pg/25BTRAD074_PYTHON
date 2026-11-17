@@ -1,0 +1,1 @@
+print("compueter\nscience\nengineering")
