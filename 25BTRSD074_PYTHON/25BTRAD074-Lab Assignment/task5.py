@@ -1,1 +1,0 @@
-print("compueter\nscience\nengineering")
